@@ -1,11 +1,25 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# NenaDial - Speed Dial 
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+Written in: PHP(Laravel), Vue, Javascript, MySQL ( And of course, HTML and CSS)
+
+I really like the Opera browser speed dial page, so I tried creating something like it, along with the bookmarking URL feature.
+
+# Screenshot
+
+<img src="https://i.imgur.com/haXcBQz.jpg">
+
+<br>
+
+# How to install
+
+- Make a database called nenaDial
+- Rename the .env.example to .env and fill in your DB info
+- Migrate
+- Seed
+- run: npm install
+- Enjoy
+
+<br>
 
 ## About Laravel
 
